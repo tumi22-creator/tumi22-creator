@@ -25,7 +25,7 @@ A simple budgeting app designed to help students track income and expenses.
 - Basic data persistence
 
 **Tech used:** React / JavaScript  
-🔗 Repository: *(link your repo here)*
+🔗 Repository: [*(link your repo here)*](https://github.com/tumi22-creator/student-budget-tracker)
 
 ---
 
@@ -38,7 +38,7 @@ A practical app for managing tasks or bookings.
 - Clean UI
 
 **Tech used:** React Native, Firebase  
-🔗 Repository: *(link your repo here)*
+
 
 ---
 
@@ -51,6 +51,5 @@ A practical app for managing tasks or bookings.
 
 ## 📫 Let’s Connect
 - GitHub: https://github.com/tumi22-creator
-- LinkedIn: *(add your LinkedIn here)*
-
+- LinkedIn: www.linkedin.com/in/tumelo-phale-660067369
 Thanks for stopping by! 😊
